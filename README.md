@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0133b8459e658004e50eb0ef32f2806e2cf25fc2c9e53944c9b709d7734f8bf9/68747470733a2f2f696b2e696d6167656b69742e696f2f647265736d612f447265736d615f4c6962726172792f73656e696f722d736f6674776172652d656e67696e6565725f57793832745951796d2e676966">
 
